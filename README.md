@@ -7,10 +7,10 @@ This repository contains the Verilog implementation of a Dual Port RAM. Dual Por
 ## Contents
 
 - **src/**: This directory contains the Verilog source code for the Dual Port RAM module.
-  - `dual_port_ram.v`: Verilog module for the Dual Port RAM.
+  - `DualportRAM_src.v`: Verilog module for the Dual Port RAM.
   
 - **testbenches/**: This directory includes testbenches to verify the functionality of the Dual Port RAM.
-  - `test_dual_port_ram.v`: Testbench for the Dual Port RAM module.
+  - `DualportRAM_tb.v`: Testbench for the Dual Port RAM module.
 
 - **sim/**: Simulation outputs will be stored in this directory.
 
