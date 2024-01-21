@@ -40,10 +40,6 @@ This repository contains the Verilog implementation of a Dual Port RAM. Dual Por
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Thank you for using and contributing to the Dual Port RAM Verilog implementation!
