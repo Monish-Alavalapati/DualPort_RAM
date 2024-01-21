@@ -19,7 +19,7 @@ This repository contains the Verilog implementation of a Dual Port RAM. Dual Por
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/dual-port-ram.git
+    git clone https://github.com/Monish-Alavalapati/DualPort_RAM.git
     cd dual-port-ram
     ```
 
