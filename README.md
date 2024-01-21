@@ -1,2 +1,2 @@
-# DualPort_RAM
+# Dual-Port RAM
 
