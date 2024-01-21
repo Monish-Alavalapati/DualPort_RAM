@@ -29,7 +29,7 @@ This repository contains the Verilog implementation of a Dual Port RAM. Dual Por
 
     ```bash
     cd sim
-    <simulation_command> test_dual_port_ram.v
+    <simulation_command> DualportRAM_tb.v
     ```
 
    Replace `<simulation_command>` with the appropriate command for your simulation tool (e.g., `iverilog`, `ncsim`, `modelsim`, etc.).
@@ -49,4 +49,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for using and contributing to the Dual Port RAM Verilog implementation!
 
 Happy coding!
-
