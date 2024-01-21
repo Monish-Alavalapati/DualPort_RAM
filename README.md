@@ -1,4 +1,4 @@
-# Dual Port RAM Verilog Implementation
+# Dual Port RAM 
 
 ## Overview
 
